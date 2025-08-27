@@ -1,0 +1,14 @@
+/Users/bible/App/UIC/Week10/Workshop1/bin/Debug/net9.0/Workshop1
+/Users/bible/App/UIC/Week10/Workshop1/bin/Debug/net9.0/Workshop1.deps.json
+/Users/bible/App/UIC/Week10/Workshop1/bin/Debug/net9.0/Workshop1.runtimeconfig.json
+/Users/bible/App/UIC/Week10/Workshop1/bin/Debug/net9.0/Workshop1.dll
+/Users/bible/App/UIC/Week10/Workshop1/bin/Debug/net9.0/Workshop1.pdb
+/Users/bible/App/UIC/Week10/Workshop1/obj/Debug/net9.0/Workshop1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bible/App/UIC/Week10/Workshop1/obj/Debug/net9.0/Workshop1.AssemblyInfoInputs.cache
+/Users/bible/App/UIC/Week10/Workshop1/obj/Debug/net9.0/Workshop1.AssemblyInfo.cs
+/Users/bible/App/UIC/Week10/Workshop1/obj/Debug/net9.0/Workshop1.csproj.CoreCompileInputs.cache
+/Users/bible/App/UIC/Week10/Workshop1/obj/Debug/net9.0/Workshop1.dll
+/Users/bible/App/UIC/Week10/Workshop1/obj/Debug/net9.0/refint/Workshop1.dll
+/Users/bible/App/UIC/Week10/Workshop1/obj/Debug/net9.0/Workshop1.pdb
+/Users/bible/App/UIC/Week10/Workshop1/obj/Debug/net9.0/Workshop1.genruntimeconfig.cache
+/Users/bible/App/UIC/Week10/Workshop1/obj/Debug/net9.0/ref/Workshop1.dll
